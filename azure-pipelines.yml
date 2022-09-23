@@ -19,7 +19,6 @@ variables:
 
   # Agent VM image name
   vmImageName: 'MyPool'
-'
 
 
 stages:
