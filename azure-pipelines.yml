@@ -18,7 +18,8 @@ variables:
   environmentName: 'Boyswebapp'
 
   # Agent VM image name
-  vmImageName: 'Linux_agent'
+  vmImageName: 'MyPool'
+'
 
 
 stages:
