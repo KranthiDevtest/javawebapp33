@@ -18,8 +18,8 @@ variables:
   environmentName: 'Boyswebapp'
 
   # Agent VM image name
- #vmImageName: 'ubuntu-latest'
- pool: Linux_agent
+  vmImageName: 'Linux_agent'
+
 
 stages:
 - stage: Build
