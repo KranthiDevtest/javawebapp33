@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
-  <head></head>
-  <body>
-    <h1>Watch out for the flying cat!</h1>
-    <p>
-      Here it comes:
-      <img src="http://bit.ly/r3fgru" />
-    </p>
-  </body>
+<html lang="en">
+<head>
+<title>Some relevant title</title>
+</head>
+<body>
+	<h2>welcome to first karnthi ADO pipeline</h2>
+	  <h2>Azure DevOps is a platform which has five different components !!!</h2>
+
+</body>
 </html>
